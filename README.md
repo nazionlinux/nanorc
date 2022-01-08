@@ -1,0 +1,2 @@
+# nanorc
+Nano config file
